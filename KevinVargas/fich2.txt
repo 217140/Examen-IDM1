@@ -1,0 +1,10 @@
+1-Creacion de la carpeta donde se trabajada -> mkdir Examen
+2-Inicializar carpeta de trabajo -> git init
+3- Clonacion del repositorio de trabajo -> git clone LINK
+4- Creacion del fichero de pasos -> kevinMofidicacion.txt
+5- Subida del fichero anterior al git -> git add kevinModificacion.txt
+6- Creacion del directorio que nos piden con nuestro Nombre -> mkdir KevinVargas
+7-Añadimos ahi los 3 archivos que nos piden.
+8- Subimos la carpeta
+9- hacemos el commit
+10- Enviamos el trabajo 

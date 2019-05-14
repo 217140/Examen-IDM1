@@ -1,0 +1,15 @@
+Los pasos que voy a seguir seran:
+-Crear una carpeta en la que trabajare.
+-Iniciar el directorio trabajador con git init.
+-Clonar el repositorio que nos proporciona el profesor.
+-Crear un branch para no interferir con el master.
+-Crear un texto donde escribire mis pasos.
+-Añadir el archivo creado con un add.
+ 
+Posteriormente siguiendo con los pasos creare una carpeta y subire de la 
+misma manera archivos con las indicaciones que nos da el profesor.
+
+-Crear fichero con datos de lo que me ha gustado y faltando en el 
+modulo.
+-Secuencia de ordendes que consegui.
+-Archivos de pantallazos.
